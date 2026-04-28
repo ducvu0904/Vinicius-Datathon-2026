@@ -1,0 +1,29 @@
+Theme 1 — Revenue Timeline (Forecasting Foundation)
+Lớp 1: Biểu đồ đường (Line chart) doanh thu hàng ngày kèm đường trung bình trượt 30 ngày (smoothing).
+
+Lớp 2: Heatmap doanh thu Tháng × Năm để nhận diện tính chu kỳ (Seasonality) và các đỉnh doanh thu.
+
+Lớp 3: Biểu đồ cột Gross Margin theo Quý để theo dõi xu hướng co/nở của lợi nhuận.
+
+Ghi chú (Annotation): Đặt giả thuyết cho các điểm sụt giảm bất thường (ví dụ: năm 2019).
+
+Theme 2 — Cohort Retention (Customer Health)
+Phân loại: Nhóm khách hàng theo quý đăng ký dựa trên signup_date từ customers.csv.
+
+Số liệu: Tính tỷ lệ khách hàng quay lại mua hàng sau 3, 6, 12 tháng.
+
+Trực quan: Heatmap Cohort để so sánh sức khỏe giữa các tệp khách hàng cũ và mới.
+
+Theme 3 — Margin × Volume Matrix (Segment Strategy)
+Scatter Plot: Trục X (Volume - Số lượng bán) và trục Y (Gross Margin).
+
+Phân tích phân khúc: Chia dữ liệu theo 4 nhóm: Premium, Performance, Activewear, Standard.
+
+Insight: Xác định phân khúc nào đang đóng góp lợi nhuận (Margin play) và phân khúc nào đóng góp quy mô (Volume play).
+
+Theme 4 — Promotion Effectiveness (Promotion ROI)
+So sánh AOV: Đối chiếu giá trị đơn hàng trung bình giữa nhóm có sử dụng khuyến mãi (Promo) và không sử dụng.
+
+Độ sâu chiết khấu (Discount Depth): Tính toán phần trăm giảm giá thực tế trên mỗi sản phẩm.
+
+Tương quan: Đánh giá liệu việc tăng sản lượng nhờ khuyến mãi có gây thiệt hại quá mức đến biên lợi nhuận hay không.
