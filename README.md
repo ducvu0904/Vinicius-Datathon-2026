@@ -47,7 +47,6 @@ python EDA_Analyse/data_fetch.py
 ```
 
 ## EDA va phan tich
-- [MCQ.ipynb](MCQ.ipynb): ghi chu/ phan tich nhanh.
 - [EDA_Analyse/Descriptive.ipynb](EDA_Analyse/Descriptive.ipynb): thong ke mo ta va bieu do.
 - [Forecast/vinicius-model/model/EDA.ipynb](Forecast/vinicius-model/model/EDA.ipynb): EDA phuc vu du bao.
 
